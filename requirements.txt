@@ -1,5 +1,4 @@
 torch
-pickle
 streamlit
 scikit-learn
 sentence-transformers
