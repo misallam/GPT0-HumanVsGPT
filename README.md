@@ -2,7 +2,9 @@
 The "GPT0" project introduces a cutting-edge application designed to differentiate between human-written and GPT-generated text. At its core, the application leverages a machine learning model built with PyTorch, trained on a dataset comprising over 260,000 labeled instances. This initiative aims to support text analysis and digital authenticity verification efforts, providing a valuable tool in the age of advanced text-generating AI.
 
 ## Video Overview
-Watch this comprehensive video guide to get started and understand the capabilities of GPT0: [![GPT0 Video Guide](https://github.com/misallam/GPT0-HumanVsGPT/blob/main/video_cover.jpg)](https://drive.google.com/file/d/1SCxFHQaIPl_9kwkxZ2QWWO5a0guxUDV0/view?usp=sharing)
+### Watch this comprehensive guide to understand GPT0's capabilities:
+
+[![GPT0 Video Guide](https://github.com/misallam/GPT0-HumanVsGPT/blob/main/video_cover.jpg)](https://drive.google.com/file/d/1SCxFHQaIPl_9kwkxZ2QWWO5a0guxUDV0/view?usp=sharing)
 
 ## Features
 - Streamlit-based interactive interface for easy use.
