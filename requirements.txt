@@ -1,0 +1,9 @@
+torch
+pickle
+streamlit
+scikit-learn
+sentence-transformers
+pandas
+numpy
+matplotlib
+tqdm
